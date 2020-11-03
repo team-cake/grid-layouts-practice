@@ -54,7 +54,10 @@ body {
   font-size: 1.5rem;
   text-transform: uppercase;
   padding: 1.8rem 3rem;
-  cursor: pointer; }
+  cursor: pointer;
+  transition: all 0.2s; }
+  .btn:hover {
+    background-color: #b28451; }
 
 .sidebar {
   background-color: #c69963;
