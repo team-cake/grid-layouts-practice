@@ -9,10 +9,14 @@
 }
 
 .feature {
+	display: grid;
+	grid-template-columns: min-content 1fr;
+
 	&__icon {
 		fill: $color-primary;
 		width: 4.5rem;
 		height: 4.5rem;
+		grid-row: 1 / span 2;
 	}
 
 	&__text {

@@ -51,13 +51,16 @@ body {
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 6rem; }
 
-.feature__icon {
-  fill: #c69963;
-  width: 4.5rem;
-  height: 4.5rem; }
-
-.feature__text {
-  font-size: 1.7rem; }
+.feature {
+  display: grid;
+  grid-template-columns: min-content 1fr; }
+  .feature__icon {
+    fill: #c69963;
+    width: 4.5rem;
+    height: 4.5rem;
+    grid-row: 1 / span 2; }
+  .feature__text {
+    font-size: 1.7rem; }
 
 .story__pictures {
   background-color: #c69963;
