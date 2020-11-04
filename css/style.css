@@ -170,7 +170,9 @@ body {
     fill: #c69963;
     height: 2.5rem;
     width: 2.5rem;
-    z-index: 2; }
+    z-index: 2;
+    justify-self: end;
+    margin: 1rem; }
   .home__name {
     grid-column: 1 / -1; }
   .home__location svg, .home__rooms svg, .home__area svg, .home__price svg {
