@@ -33,6 +33,14 @@
 
 	&__name {
 		grid-column: 1 / -1;
+
+		font-family: $font-display;
+		font-size: 1.6rem;
+		text-align: center;
+		padding: 1.25rem;
+		background-color: $color-secondary;
+		color: white;
+		font-weight: 400;
 	}
 
 	&__location,

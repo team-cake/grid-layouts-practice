@@ -174,7 +174,14 @@ body {
     justify-self: end;
     margin: 1rem; }
   .home__name {
-    grid-column: 1 / -1; }
+    grid-column: 1 / -1;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 1.6rem;
+    text-align: center;
+    padding: 1.25rem;
+    background-color: #101d2c;
+    color: white;
+    font-weight: 400; }
   .home__location svg, .home__rooms svg, .home__area svg, .home__price svg {
     fill: #c69963;
     height: 2rem;
