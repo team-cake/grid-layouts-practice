@@ -282,4 +282,5 @@ body {
     display: block;
     transition: all 0.2s; }
   .nav__link:hover, .nav__link:active {
-    background-color: rgba(255, 255, 255, 0.05); }
+    background-color: rgba(255, 255, 255, 0.05);
+    transform: translateY(-3px); }
