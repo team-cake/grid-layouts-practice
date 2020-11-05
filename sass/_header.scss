@@ -31,6 +31,10 @@
 	}
 
 	&__seenon-logos {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		grid-column-gap: 3rem;
+		justify-items: center;
 		img {
 			height: 2.5rem;
 		}

@@ -120,8 +120,13 @@ body {
   .header__btn {
     align-self: start;
     justify-self: start; }
-  .header__seenon-logos img {
-    height: 2.5rem; }
+  .header__seenon-logos {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 3rem;
+    justify-items: center; }
+    .header__seenon-logos img {
+      height: 2.5rem; }
 
 .realtors {
   background-color: #101d2c;
