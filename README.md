@@ -1,6 +1,7 @@
 # Grid - Layouts - Practice
 
-A simple website to practice some grid layouts
+A simple static website to practice some grid layouts.  
+Would you like to have a look? [Click here!](https://team-cake.github.io/grid-layouts-practice/)
 
 ---
 
@@ -23,7 +24,8 @@ Well, it's super simple. Just needed a mock up website to practice my grid layou
 
 ## Images
 
-Coming soon when I have something to show!
+Coming soon when I have something to show!  
+Can't wait for the images? [Click here!](https://team-cake.github.io/grid-layouts-practice/)
 
 ---
 
@@ -37,7 +39,8 @@ Project mode is created with:
 ## Project Status
 
 Project is: _in progress_  
-At the moment the website is not finished yet!
+At the moment the website is not finished yet!  
+Need to work on some responsive design :)
 
 ---
 
