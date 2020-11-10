@@ -12,13 +12,14 @@ Would you like to have a look? [Click here!](https://team-cake.github.io/grid-la
 - [Technologies](#technologies)
 - [Project Status](#project-status)
 - [Setup](#setup)
-- [Contact](#contact)
+- [Contact](#contact)  
+- [Credits](#credits)
 
 ---
 
 ## Statement of Purpose
 
-Well, it's super simple. Just needed a mock up website to practice my grid layouts skills :)
+Well, it's super simple. Just needed a mock up website to learn some grid layouts skills :)
 
 ---
 
@@ -64,4 +65,10 @@ $ npm run install
 
 ## Contact
 
-Created by [Alex Cheuk](https://www.linkedin.com/in/alex-cheuk/) - feel free to contact me!
+Created by [Alex Cheuk](https://www.linkedin.com/in/alex-cheuk/) - feel free to contact me!  
+
+---  
+
+## Credits
+
+Credits to Jonas Schmedtmann for designing this website on his awesome Udemy [course](https://www.udemy.com/course/advanced-css-and-sass/)!
