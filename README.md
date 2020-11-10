@@ -1,4 +1,4 @@
-# Grid - Layouts - Practice
+# Nexter - Grid Layouts Practice
 
 A simple static website to practice some grid layouts.  
 Would you like to have a look? [Click here!](https://team-cake.github.io/grid-layouts-practice/)
